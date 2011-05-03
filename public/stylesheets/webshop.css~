@@ -33,9 +33,9 @@ font-size: small;
 }
 
 .list_line_odd {
-background: #22bbcc;
+background: #11cdef;
 }
 
 .list_line_even {
-background: #55ccdd;
+background: #115678;
 }

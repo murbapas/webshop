@@ -39,3 +39,6 @@ background: #11cdef;
 .list_line_even {
 background: #115678;
 }
+#store .entry form, #store .entry form div{
+display: inline;
+}
