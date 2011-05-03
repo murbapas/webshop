@@ -31,3 +31,11 @@ background: #141;
 color: #bfb;
 font-size: small;
 }
+
+.list_line_odd {
+background: #11cdef;
+}
+
+.list_line_even {
+background: #115678;
+}
