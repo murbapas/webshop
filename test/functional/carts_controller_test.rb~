@@ -46,6 +46,6 @@ class CartsControllerTest < ActionController::TestCase
 
     end
 
-    assert_redirected_to store_path
+    assert_redirected_to carts_path
   end
 end
